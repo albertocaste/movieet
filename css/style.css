@@ -1,0 +1,147 @@
+body{
+	background: url('../img/dukane.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1{
+	font-size: 50px;
+	font-family: 'Righteous', cursive;
+}
+
+#index{
+	background: rgba(0,0,0,0);
+}
+
+h3{
+	font-family: 'Righteous', cursive;
+}
+.amarillo{
+	color: #f0ad4e;
+}
+.text2{
+	font-size: 30px;
+}
+.container{
+	padding-top: 50px;
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+	width: 700px;
+	height: 100vh;
+	padding-bottom: 10px;
+	color: white;
+	font-family: 'Ropa Sans', sans-serif;
+}
+
+.input-group-addon{
+	background: #f0ad4e;
+	color: white;
+}
+
+.btn-warning{
+	font-size: 20px;
+}
+
+input + label span{
+	display: inline-block;
+	width: 80px;
+	height: 160px;
+	cursor: pointer;
+}
+
+input:checked + label span{
+	display: inline-block;
+	background: url(../img/checked.png) no-repeat;
+	cursor: pointer;
+}
+
+label:hover{
+	transform: scale(1.5) rotate(3deg);
+}
+
+#inception{
+	background: url(../img/inception.jpg) no-repeat;
+}
+
+#cinema{
+	background: url(../img/cinema.jpg) no-repeat;
+}
+
+#toystory{
+	background: url(../img/toystory.jpg) no-repeat;
+}
+
+#juon{
+	background: url(../img/juon.jpg) no-repeat;
+}
+
+#padrino{
+	background: url(../img/padrino.jpg) no-repeat;
+}
+
+#orange{
+	background: url(../img/orange.jpg) no-repeat;
+}
+
+#manhattan{
+	background: url(../img/manhattan.jpg) no-repeat;
+}
+
+#deseando{
+	background: url(../img/deseando.jpg) no-repeat;
+}
+
+#friends{
+	background: url(../img/friends.jpg) no-repeat;
+}
+
+#dead{
+	background: url(../img/dead.jpg) no-repeat;
+}
+
+#bad{
+	background: url(../img/bad.jpg) no-repeat;
+}
+
+#fargo{
+	background: url(../img/fargo.jpg) no-repeat;
+}
+
+#game{
+	background: url(../img/game.jpg) no-repeat;
+}
+
+#detective{
+	background: url(../img/detective.jpg) no-repeat;
+}
+
+#lost{
+	background: url(../img/lost.jpg) no-repeat;
+}
+
+#homeland{
+	background: url(../img/homeland.jpg) no-repeat;
+}
+
+#fantasy{
+	background: url(../img/fantasy.png) no-repeat;
+}
+
+#action{
+	background: url(../img/action.png) no-repeat;
+}
+
+#adventure{
+	background: url(../img/adventure.png) no-repeat;
+}
+
+#fiction{
+	background: url(../img/fiction.png) no-repeat;
+}
+
+#love{
+	background: url(../img/love.png) no-repeat;
+}
+
+#horror{
+	background: url(../img/horror.png) no-repeat;
+}
